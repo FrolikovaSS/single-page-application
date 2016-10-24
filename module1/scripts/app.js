@@ -7,13 +7,12 @@
     function LunchCheckController($scope) {
         $scope.dishes = '';
         $scope.message = "";
-        $scope.classRed = false;
-        $scope.classGreen = false;
 
         $scope.checkIfTooMuch = function () {
             if ($scope.dishes == "") {
-                $scope.message = "Please enter data first";
+                $scope.classGreen = false;
                 $scope.classRed = true;
+                $scope.message = "Please enter data first";
 
             } else {
                 var arr = $scope.dishes.split(',');
@@ -30,6 +29,7 @@
                     message = "Too much!";
                 }
                 $scope.message = message;
+                $scope.classRed = false;
                 $scope.classGreen = true;
 
             }

@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed75dcfe-0e15-4fa5-8de7-783062ab3c46" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/index.html" afterPath="$PROJECT_DIR$/module1/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/scripts/angular.min.js" afterPath="$PROJECT_DIR$/module1/scripts/angular.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/scripts/app.js" afterPath="$PROJECT_DIR$/module1/scripts/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/styles/bootstrap.min.css" afterPath="$PROJECT_DIR$/module1/styles/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/styles/style.css" afterPath="$PROJECT_DIR$/module1/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module1/scripts/app.js" afterPath="$PROJECT_DIR$/module1/scripts/app.js" />
     </list>
     <ignored path="single-page-application.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+            <state relative-caret-position="357">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module1/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="102">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -89,6 +80,7 @@
         <option value="$PROJECT_DIR$/module#1-solution/scripts/app.js" />
         <option value="$PROJECT_DIR$/module#1-solution/index.html" />
         <option value="$PROJECT_DIR$/module#1-solution/styles/style.css" />
+        <option value="$PROJECT_DIR$/module1/scripts/app.js" />
       </list>
     </option>
   </component>
@@ -98,8 +90,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-38" />
-    <option name="y" value="235" />
+    <option name="x" value="-31" />
+    <option name="y" value="178" />
     <option name="width" value="1280" />
     <option name="height" value="700" />
   </component>
@@ -269,18 +261,18 @@
       <workItem from="1476718024323" duration="6142000" />
       <workItem from="1476819014634" duration="265000" />
       <workItem from="1476881577973" duration="13610000" />
-      <workItem from="1477330572301" duration="1879000" />
+      <workItem from="1477330572301" duration="2488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23318000" />
+    <option name="totallyTimeSpent" value="23927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-38" y="235" width="1280" height="700" extended-state="0" />
-    <editor active="false" />
+    <frame x="-31" y="178" width="1280" height="700" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17391305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17391305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -476,14 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module1/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module1/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -494,8 +478,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        <state relative-caret-position="357">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding />
         </state>
       </provider>
