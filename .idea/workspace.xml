@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed75dcfe-0e15-4fa5-8de7-783062ab3c46" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module#1-solution/scripts/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module#1-solution/scripts/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module#1-solution/styles/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module#1-solution/index.html" afterPath="$PROJECT_DIR$/module#1-solution/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/module1/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/index.html" afterPath="$PROJECT_DIR$/module1/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/scripts/angular.min.js" afterPath="$PROJECT_DIR$/module1/scripts/angular.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/scripts/app.js" afterPath="$PROJECT_DIR$/module1/scripts/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/styles/bootstrap.min.css" afterPath="$PROJECT_DIR$/module1/styles/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/module#1-solution/styles/style.css" afterPath="$PROJECT_DIR$/module1/styles/style.css" />
     </list>
     <ignored path="single-page-application.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +33,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module#1-solution/index.html">
+        <entry file="file://$PROJECT_DIR$/module1/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="229">
               <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
@@ -38,7 +43,7 @@
         </entry>
       </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module#1-solution/scripts/app.js">
+        <entry file="file://$PROJECT_DIR$/module1/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
@@ -48,7 +53,7 @@
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module#1-solution/styles/style.css">
+        <entry file="file://$PROJECT_DIR$/module1/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
@@ -151,7 +156,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="module#1-solution" />
+              <option name="myItemId" value="module1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -264,15 +269,15 @@
       <workItem from="1476718024323" duration="6142000" />
       <workItem from="1476819014634" duration="265000" />
       <workItem from="1476881577973" duration="13610000" />
-      <workItem from="1477330572301" duration="1540000" />
+      <workItem from="1477330572301" duration="1879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22979000" />
+    <option name="totallyTimeSpent" value="23318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-38" y="235" width="1280" height="700" extended-state="1" />
+    <frame x="-38" y="235" width="1280" height="700" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17391305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -309,7 +314,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module#1-solution/index.html">
+    <entry file="file://$PROJECT_DIR$/module1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
@@ -325,7 +330,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module#1-solution/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/module1/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
@@ -341,7 +346,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module#1-solution/styles/style.css">
+    <entry file="file://$PROJECT_DIR$/module1/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -405,7 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module#1-solution/scripts/angular.min.js">
+    <entry file="file://$PROJECT_DIR$/module1/scripts/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -471,7 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module#1-solution/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/module1/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
@@ -479,7 +484,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module#1-solution/styles/style.css">
+    <entry file="file://$PROJECT_DIR$/module1/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
@@ -487,7 +492,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module#1-solution/index.html">
+    <entry file="file://$PROJECT_DIR$/module1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
