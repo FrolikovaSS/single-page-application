@@ -13,3 +13,8 @@
 .greenBorder {
     border: 1px solid green;
 }
+
+.message {
+    font-size: 1.3em;
+    font-weight: bold;
+}

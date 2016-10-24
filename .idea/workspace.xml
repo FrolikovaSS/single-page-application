@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed75dcfe-0e15-4fa5-8de7-783062ab3c46" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module1/index.html" afterPath="$PROJECT_DIR$/module1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module1/styles/style.css" afterPath="$PROJECT_DIR$/module1/styles/style.css" />
     </list>
     <ignored path="single-page-application.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/module1/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,8 +47,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module1/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -81,6 +82,7 @@
         <option value="$PROJECT_DIR$/module#1-solution/index.html" />
         <option value="$PROJECT_DIR$/module#1-solution/styles/style.css" />
         <option value="$PROJECT_DIR$/module1/scripts/app.js" />
+        <option value="$PROJECT_DIR$/module1/styles/style.css" />
         <option value="$PROJECT_DIR$/module1/index.html" />
       </list>
     </option>
@@ -92,9 +94,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-31" />
-    <option name="y" value="178" />
+    <option name="y" value="266" />
     <option name="width" value="1280" />
-    <option name="height" value="700" />
+    <option name="height" value="612" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -262,15 +264,15 @@
       <workItem from="1476718024323" duration="6142000" />
       <workItem from="1476819014634" duration="265000" />
       <workItem from="1476881577973" duration="13610000" />
-      <workItem from="1477330572301" duration="3731000" />
+      <workItem from="1477330572301" duration="3882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25170000" />
+    <option name="totallyTimeSpent" value="25321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-31" y="178" width="1280" height="700" extended-state="0" />
+    <frame x="-31" y="266" width="1280" height="612" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17391305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -469,14 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module1/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module1/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -485,10 +479,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/module1/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
