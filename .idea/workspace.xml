@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed75dcfe-0e15-4fa5-8de7-783062ab3c46" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment2/scripts/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment2/scripts/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module2/scripts/app.js" afterPath="$PROJECT_DIR$/module2/scripts/app.js" />
     </list>
     <ignored path="single-page-application.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,41 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignment2/scripts/app.js">
+        <entry file="file://$PROJECT_DIR$/module2/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="323">
+              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -100,6 +68,7 @@
         <option value="$PROJECT_DIR$/20/app.js" />
         <option value="$PROJECT_DIR$/assignment2/index.html" />
         <option value="$PROJECT_DIR$/assignment2/scripts/app.js" />
+        <option value="$PROJECT_DIR$/module2/scripts/app.js" />
       </list>
     </option>
   </component>
@@ -168,7 +137,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignment2" />
+              <option name="myItemId" value="module2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,7 +151,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="20" />
+              <option name="myItemId" value="module2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -285,18 +258,18 @@
       <workItem from="1477584383732" duration="1203000" />
       <workItem from="1477997769598" duration="1226000" />
       <workItem from="1478178943192" duration="9225000" />
-      <workItem from="1478449287645" duration="11000" />
+      <workItem from="1478449287645" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40676000" />
+    <option name="totallyTimeSpent" value="41261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="265" width="1280" height="610" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17391305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17391305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -651,18 +624,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
+        <state relative-caret-position="292">
           <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment2/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/module2/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
           <folding />
         </state>
       </provider>

@@ -33,8 +33,16 @@
                 quantity: '5 bottles'
             },
             {
+                name: 'oranges',
+                quantity: '3 bags'
+            },
+            {
                 name: 'apples',
                 quantity: '6 bags'
+            },
+            {
+                name: 'tomatoes',
+                quantity: '5 bags'
             },
             {
                 name: 'meet',
